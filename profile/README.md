@@ -26,7 +26,7 @@ Multi-featured Telegram userbot dev team.
 
 ---
 ## Support
-- [Group (Telegram)](https://t.me/UltroidSupport)
+- [Group (Telegram)](https://t.me/UltroidSupportChat)
 
 ---
 With 💕, by @TeamUltroid.
